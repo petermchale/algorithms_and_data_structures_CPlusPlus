@@ -1,8 +1,8 @@
-#include "unique_ptr.h"
+#include "binary_search.h"
 
 int main() {
 
-    unique_ptr::unique_ptr();
+    binary_search::test_binary_search();
 
     return 0;
 
