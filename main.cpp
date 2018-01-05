@@ -2,7 +2,7 @@
 
 int main() {
 
-    binary_search::test_binary_search();
+    binary_search::find_choices();
 
     return 0;
 
