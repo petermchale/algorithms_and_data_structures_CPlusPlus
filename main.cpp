@@ -1,8 +1,8 @@
-#include "binary_search.h"
+#include "circular_queue.h"
 
 int main() {
 
-    binary_search::find_choices();
+    circular_queue::test_circular_queue();
 
     return 0;
 
