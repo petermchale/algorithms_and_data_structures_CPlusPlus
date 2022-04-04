@@ -3,6 +3,7 @@
 
 namespace binary_search {
 
+	  // https://www.youtube.com/watch?v=P3YID7liBug&list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK&index=23
     bool recursive_search(const std::vector<int> &array,
                           const int &x,
                           const int &left,
@@ -27,6 +28,7 @@ namespace binary_search {
         return recursive_search(array, x, 0, array.size() - 1);
     }
 
+		// https://www.youtube.com/watch?v=P3YID7liBug&list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK&index=23
     bool iterative_search(const std::vector<int> &array,
                           const int &x) {
         int left = 0;
