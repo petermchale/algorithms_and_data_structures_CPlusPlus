@@ -2,6 +2,9 @@
 #include <queue>
 #include <iostream>
 
+// for heap implementation, see: 
+// https://www.youtube.com/watch?v=t0Cq6tVNRBA&list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK&index=9
+
 namespace running_median {
 
     typedef int element_type;

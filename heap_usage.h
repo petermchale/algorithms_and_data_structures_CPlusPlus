@@ -3,6 +3,8 @@
 #include <iostream>
 #include <queue>
 
+// for heap implementation, see:  
+// https://www.youtube.com/watch?v=t0Cq6tVNRBA&list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK&index=9
 namespace heap_usage{
 
     typedef std::vector<int> vector_type;
