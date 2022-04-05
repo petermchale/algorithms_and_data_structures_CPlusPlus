@@ -1,3 +1,5 @@
+// https://www.youtube.com/watch?v=njTh_OwMljA&list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK&index=24 
+
 #include <iostream>
 
 namespace linked_list_v1 {
