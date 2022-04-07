@@ -1,3 +1,6 @@
+// https://florian.github.io/xor-trick/ 
+// https://www.youtube.com/watch?v=eXWjCgbL01U&list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK&index=5 
+
 #include <vector>
 
 namespace lonely_integer {
