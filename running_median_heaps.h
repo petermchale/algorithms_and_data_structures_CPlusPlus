@@ -2,6 +2,8 @@
 #include <queue>
 #include <iostream>
 
+// https://www.youtube.com/watch?v=VmogG01IjYc&list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK&index=8 
+
 // for heap implementation, see: 
 // https://www.youtube.com/watch?v=t0Cq6tVNRBA&list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK&index=9
 
